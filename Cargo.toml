@@ -1,0 +1,11 @@
+[package]
+name = "sancta"
+description = "WIP"
+version = "0.0.1"
+license = "MIT"
+edition = "2024"
+authors = ["Eduardo Marinho <eduardomarinho@pm.me>"]
+readme = "README.md"
+repository = "https://github.com/enfmarinho/sancta.git"
+
+[dependencies]
